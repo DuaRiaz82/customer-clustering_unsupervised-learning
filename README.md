@@ -45,7 +45,7 @@ The app lets you choose a customer's annual income (in thousands of dollars) and
 To run the analysis notebook, install the dependencies above and launch Jupyter:
 ##LIVE LINK
 
-http://localhost:8501/
+https://customer-clusteringunsupervised-learning.streamlit.app/
 
 ```bash
 jupyter notebook
