@@ -43,6 +43,9 @@ The app lets you choose a customer's annual income (in thousands of dollars) and
 ## Explore the notebook
 
 To run the analysis notebook, install the dependencies above and launch Jupyter:
+##LIVE LINK
+
+http://localhost:8501/
 
 ```bash
 jupyter notebook
